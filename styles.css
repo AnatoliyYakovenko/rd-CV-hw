@@ -4,12 +4,22 @@ body{
 }
 .name{
     font-style: oblique;
+    border-bottom: 1px solid rgb(193, 191, 191);
+}
+img{
+    padding: 10px;
+    border: 2px solid rgb(193, 191, 191);
 }
 .job-title{
     font-weight: bold;
+    border-bottom: 1px solid rgb(193, 191, 191);
+}
+.cv-table{
+    background-color: rgb(220, 220, 248);
 }
 .table-title{
     text-transform: uppercase;
+    background-color: rgb(193, 191, 191);
 }
 a:link{
     color: #00f;
@@ -22,4 +32,8 @@ a:hover{
 }
 .skills-list{
     list-style-type:square;
+    border-bottom: 1px solid rgb(193, 191, 191);
+}
+.achievements-list{
+    border-bottom: 1px solid rgb(193, 191, 191);
 }
