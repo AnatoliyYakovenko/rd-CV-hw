@@ -2,11 +2,17 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: #333;   
 }
+.top-part{
+    display: flex;
+    justify-content: space-between;
+}
 .name{
     font-style: oblique;
     border-bottom: 1px solid rgb(193, 191, 191);
 }
 img{
+    width: 100px;
+    height: 100px;
     padding: 10px;
     border: 2px solid rgb(193, 191, 191);
 }
@@ -15,6 +21,7 @@ img{
     border-bottom: 1px solid rgb(193, 191, 191);
 }
 .cv-table{
+    width: 100%;
     background-color: rgb(220, 220, 248);
 }
 .table-title{
