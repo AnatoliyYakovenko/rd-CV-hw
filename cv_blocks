@@ -1,0 +1,37 @@
+<!--Main-->
+<div class="main">
+  <!--Summary-->
+  <div class="summary">
+    <div class="title"></div>
+  </div>
+  <!--Skills Highlights-->
+  <div class="skills">
+    <div class="title"></div>
+    <div class="skills-list"></div>
+  </div>
+  <!--Work Experience-->
+  < class="work">
+    <div class="title"></div>
+    <div class="work-list"></div>
+  <div>
+  <!--Education-->
+      <div class="education">
+      <div class="title"></div>
+      </div>
+  </div>
+<!--Sidebar-->
+ <aside class="sidebar">
+  <div class="name">
+    <h1>FirstName <span>LastName</span></h1>
+      </div>
+      <img class="photo" />
+  <!--Contact-->
+  <div class="contacts">
+      <div class="sidebar-title"></div>
+      </div>
+  <!--Languages-->
+  <div class="languages">
+      <div class="sidebar-title"></div>
+      </div>
+ </aside>
+</div>
